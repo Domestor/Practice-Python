@@ -60,7 +60,7 @@ while True:
 
     choice = input("Choose action: ")
 
-    if choice == 5:
+    if choice == '5':
         print("bye")
         break
     elif choice in actions:
